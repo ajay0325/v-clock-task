@@ -1,0 +1,15 @@
+.clock{
+    border: solid 2px black;
+    max-width: 30%;
+    margin: auto;
+    background-color: gray;
+    padding: 50px;
+}
+.time{
+    font-size: 50px;
+    margin-left: 85px;
+}
+.day{
+    font-size: 25px;
+    margin-left: 160px;
+}
